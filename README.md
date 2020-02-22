@@ -1,1 +1,2 @@
 # Smart-Library
+RFID based Library entry and Locker allotment system. The students will have to swipe their Id Cards on the sensor while entering and exiting the room. The sensors will be interfaced with an excel sheet via an arduino board. The sheet will store all the necessary details of the student. Students can issue lockers by using their IDs only. They will have to swipe through the sensor and they will be issued a locker.
